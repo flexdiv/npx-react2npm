@@ -1,0 +1,28 @@
+{
+  "name": "react2npm",
+  "version": "2.0.1",
+  "description": "react2npm is an easy-to-use npx command that generates a complete React component project, ready to be published as an npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react2npm": "index.js"
+  },
+  "homepage": "https://docs-react2npm.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexdiv/react2npm"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "react2npm"
+  ],
+  "author": "flexdiv",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "progress": "^2.0.3"
+  }
+}
