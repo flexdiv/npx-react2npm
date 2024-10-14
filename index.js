@@ -30,7 +30,7 @@ const animate = async (isRunning) => {
     
     while (isRunning()) {
         for (let j = 0; j < spinner.length; j++) {
-            process.stdout.write(`${chalk.greenBright.bold("\rProcessing..")}  ${spinner[j]}`);
+            process.stdout.write(`${chalk.greenBright.bold("\rProcessing...")}  ${spinner[j]}`);
             await sleep(250);
         }
     }

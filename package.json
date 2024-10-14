@@ -12,7 +12,7 @@
   "homepage": "https://docs-react2npm.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flexdiv/react2npm"
+    "url": "https://github.com/flexdiv/npx-react2npm"
   },
   "keywords": [
     "react",
