@@ -1,5 +1,5 @@
 <div align="center" >
-![React to NPM](https://raw.githubusercontent.com/flexdiv/npx-react2npm/main/assets/react2npm.svg)
+<img src="https://raw.githubusercontent.com/flexdiv/npx-react2npm/main/assets/react2npm.svg" alt="react2npm" width="200"/>
 
  </div>
 
