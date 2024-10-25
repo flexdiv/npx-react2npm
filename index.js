@@ -20,7 +20,7 @@ try {
 // Geting the project name from the command-line arguments
 const projectName = process.argv[2] || 'my-package';
 
-console.log(`\nRunning create-react-app for project: ${projectName} \n`);
+console.log(`\n Running create-react-app for project: ${projectName} \n`);
 console.log(`${chalk.magenta.bold("The full process might take 1-2 minutes. \n")} `)
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
